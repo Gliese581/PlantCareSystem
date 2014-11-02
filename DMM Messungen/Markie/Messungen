@@ -1,0 +1,37 @@
+#########################################
+#	-  Widerstandmessung  -		        #
+#  Pflanze:		        Amaryllis       #
+#  Elektrodenabstand:	90mm            #
+#  Name des Prüfers:	parzival	    #
+#########################################
+
+1. Messreihe (gegossen am 2014-10-05_15:00:00)
+==============================================
+
+2014-10-05_16:30:00 (Sonntag):		3.5	    kOhm
+2014-10-06_17:00:00 (Montag):		4.9	    kOhm
+2014-10-07_23:00:00 (Dienstag):		6.4	    kOhm
+2014-10-08_16:00:00 (Mittwoch):		6.9	    kOhm
+2014-10-09_13:00:00 (Donnerstag):	7.3	    kOhm
+2014-10-10_18:00:00 (Freitag):		9.5	    kOhm
+2014-10-12_22:00:00 (Sonntag):		14.0	kOhm
+2014-10-13_12:30:00 (Montag):		18.0	kOhm
+2014-10-14_21:45:00 (Dienstag):		21.8	kOhm
+2014-10-15_21:00:00 (Mittwoch):		37.0	kOhm
+2014-10-16_17:00:00 (Donnerstag):	45.0	kOhm
+
+
+2. Messreihe (gegossen am 2014-10-16_17:45:00)
+==============================================
+
+2014-10-16_17:45	(Donnerstag):	3.6	    kOhm
+2014-10-17_19:30	(Freitag):	    4.6	    kOhm
+2014-10-18_23:30	(Samstag):	    6.0	    kOhm
+2014-10-19_17:30	(Sontag):	    5.7	    kOhm
+2014-10-20_22:00	(Montag):       18.0    kOhm
+2014-10-21_23:00    (Dienstag):     22.6    kOhm
+2014-10-22_23:00    (Mittwoch):     28.2    kOhm
+2014-10-23_21:00    (Donnerstag):   27.8    kOhm
+2014-10-24_21:30    (Freitag):      32.4    kOhm
+2014-10-25_20:00    (Samstag):      48.0    kOhm
+2014-10-26_19:30    (Sonntag):      42.0    kOhm
